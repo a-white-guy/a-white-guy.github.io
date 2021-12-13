@@ -1,0 +1,132 @@
+
+    {
+    "ServerName":"ARK Odyssey Cluster",
+    "ButtonTxt1":"Welcome",
+    "ButtonTxt2":"                               RULES                                ",
+    "ButtonTxt3":"",
+    "ButtonTxt4":"",
+    "ButtonTxt5":"          Events         ",
+    "LinkButtonTxt1":"  Join Discord  ",
+    "LinkButtonTxt2":"  ARK Bot  ",
+    "LinkButtonTxt3":"",
+    "LinkButtonTxt4":"",
+    "LinkButtonTxt5":"",
+    "LinkButton1":"https://discord.gg/arkodyssey",
+    "LinkButton2":"72.73.237.174:800",
+    "Link1Button3":"",
+    "Link2Button3":"",
+    "Link3Button3":"",
+    "Link4Button3":"",
+    "Link1Button4":"",
+    "Link2Button4":"",
+    "Link3Button4":"",
+    "Link4Button4":"",
+    "Link1Button5":"",
+    "Link2Button5":"",
+    "Link3Button5":"",
+    "Link4Button5":"",
+    "Tab1Panelcount":1,
+    "Tab2Panelcount":1,
+    "Tab3Panelcount":1,
+    "Tab4Panelcount":1,
+    "Tab5Panelcount":2,
+    "BackgroundTab1":3,
+    "BackgroundTab2":3,
+    "BackgroundTab3":3,
+    "BackgroundTab4":3,
+    "BackgroundTab5":3,
+    "Background3Color":"0.0,0.0,0.0,0.7",
+    "FontColorButtons":"255.0,255.0,255.0,",
+    "FontColorServerName":"255.0,95.0,0.0,",
+    "FontColorTabTitles":"19.0,255.0,0.0,",
+    "FontColorTabText":"255.0,255.0,255.0,",
+    "UseSteamBrowserLink1":true,
+    "UseSteamBrowserLink2":true,
+    "Tab1Title1":"",
+    "Tab1Title2":"",
+    "Tab1Title3":"",
+    "Tab2Title1":"",
+    "Tab2Title2":"",
+    "Tab2Title3":"",
+    "Tab3Title1":"",
+    "Tab3Title2":"",
+    "Tab3Title3":"",
+    "Tab4Title1":"",
+    "Tab4Title2":"",
+    "Tab4Title3":"",
+    "Tab5Title1":"",
+    "Tab5Title2":"",
+    "Tab5Title3":"",
+    "Tab1Text1":"                                        Welcome to the ARK Odyssey Cluster of Maps
+
+
+
+
+We host every official map on this cluster to include: The Island, The Center, Scorched Earth, Ragnarok, Aberration, Extinction, Valguero, Genesis 1, Crystal Isles, Genesis 2, and Lost Island.
+
+
+
+Rules, Rates, Settings, MODs, and Plugin info can be found in this UI.
+
+
+
+Additional buttons below allow you to join us in Discord, visit our ARK Bot page, support our community and also create your own tribe page!!!
+
+
+
+                                   If you enjoy playing here consider inviting others to come play.",
+    "Tab1Text2":"",
+    "Tab1Text3":"",
+    "Tab2Text1":"",
+    "Tab2Text2":"",
+    "Tab2Text3":"",
+    "Tab3Text1":"",
+    "Tab3Text2":"",
+    "Tab3Text3":"",
+    "Tab4Text1":"",
+    "Tab4Text2":"",
+    "Tab4Text3":"",
+    "Tab5Text1":"ideas for events
+
+
+- arena battles
+- tranq darts and bows
+- tranq darts and crossbows
+- c4 tag
+- wooden club tag
+- poison grenade fights
+- grenade fights
+- smoke nade fights
+- prods
+- sling shot fights
+- death by syringe
+- bola fights
+- boomerang battles
+- whip that ass
+- raptor jousts
+- nade the guy on the toilet
+- 6 shooter pistol fun
+- high on fist fights",
+    "Tab5Text2":"- shield me while i move!
+- dodo wars
+- pheromone dart challenge
+- rocket / minigun turret challenge
+- cannon fights
+- survival of the fittest (sotf)
+- musical chairs with wardrums
+- hot potato with massive feces
+- glow stick wars
+- catch the dropping packages
+- follow the gas bag drop
+- capture the flag
+- swamp run race
+- paint me
+- group photos
+- art contest
+- zip line contest
+- gps scavenger hunt
+- group photos
+- art contest
+- zipline contest",
+    "Tab5Text3":""
+    }
